@@ -1,0 +1,19 @@
+<configs>
+	<append xpath="/items">
+		<item name="resourceSteelCasing">
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceForgedSteel"/>
+			<property name="Stacknumber" value="1000"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="10"/>
+			<property name="CraftingIngredientTime" value="5"/>
+			<property name="DescriptionKey" value="SteelCasingsDesc"/>
+			<property name="Group" value="Ammo/Weapons"/>
+			<property name="CustomIcon" value="resourceSteelCasing"/>
+			<property name="CustomIconTint" value="71797e"/>
+			<property name="DescriptionKey" value="resourceSteelCasingDesc"/>
+		</item>	
+	</append>
+</configs>

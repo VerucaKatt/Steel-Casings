@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,English
+resourceSteelCasing,Items,Resource,,,"Steel Casing"
+resourceSteelCasingDesc,Items,Resource,,,"It feels like you're always on the hunt for brass, there are never enough bullets. With Steel Casings, you'll never run out. Even if it is a bit expensive."
